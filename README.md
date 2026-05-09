@@ -12,5 +12,5 @@ A professional-grade Python application developed to evaluate password security,
 1. Ensure you have Python 3.x installed.
 2. Open the project folder in VS Code.
 3. Run the script using the command:
-   ''bash
+  
    python analyzer.py
